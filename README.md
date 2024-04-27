@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-started.png)](https://can.printredir.com)
 
 If you want to establish a successful wireless connection between the Canon printer and the other devices, it is very important to complete the configuration correctly.   You can do this by following the [ij.start.canon](https://ijstart1.github.io/) setup link.  If you are using the WPS connection,  you do not need to input a password to connect your printer to the internet.  WPS connection is the simplest method because all you need is to turn on the Wi-Fi and choose the available network.  You can also go with a standard connection method depending upon your choice and requirement.  In this guide, we are going to share the simple instructions that will help you to complete the Canon set up on your device you are doing using the WPS connection method.
 
